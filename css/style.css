@@ -20,6 +20,7 @@ p {
 .blockquote {
     border: 0px;
     border-left: 0.25rem solid #3F729B;
+    margin: 0.75rem 0rem;
 }
 
 .blockquote-up {
@@ -63,4 +64,8 @@ body {
 
 .reduce * {
     font-size: 0.8rem !important;
+}
+
+hr {
+    margin: 0.25rem 0rem;
 }
